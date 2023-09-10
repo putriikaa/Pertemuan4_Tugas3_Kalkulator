@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="nol">0</string>
+    <string name="nomor1">1</string>
+    <string name="nomor2">2</string>
+    <string name="nomor3">3</string>
+    <string name="nomor4">4</string>
+    <string name="nomor5">5</string>
+    <string name="nomor6">6</string>
+    <string name="nomor7">7</string>
+    <string name="nomor8">8</string>
+    <string name="nomor9">9</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="bagi">÷</string>
+    <string name="titik">.</string>
+    <string name="clear">AC</string>
+    <string name="backspace"> +-/</string>
+    <string name="persen">%</string>
+    <string name="samaDengan">=</string>
+    <string name="kali">x</string>
+
+
+
+
+
+</resources>
